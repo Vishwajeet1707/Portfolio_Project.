@@ -18,20 +18,22 @@ const Skills = () => {
                 <div className="left-col">
                     <img
                         src={TechIcons}
-                        alt="JavaScript, React, CSS, HTML, SASS, Photoshop, Figma"
+                      //  alt="JavaScript, ReactJs, CSS, HTML, SASS, Photoshop, Figma"
+                        alt="Html, CSS, Tailwind CSS, JavaScript, ReactJS, Git, MySql"
                     />
                 </div>
                 <div className="right-col">
                     <h2>Skills</h2>
                     <p>
-                        Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s,
-                        when an unknown printer took a galley of type and
-                        scrambled it to make a type specimen book. It has
-                        survived not only five centuries, but also the leap into
-                        electronic typesetting, remaining essentially unchanged.
-                        It was popularised in the 1960s with the
+                    <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Tailwind CSS</li>
+                    <li>JavaScript</li>
+                    <li>ReactJs</li>
+                    <li>MySql</li>
+                    <li>Git</li>
+                    </ul>
                     </p>
                     <CallToAction
                         text="Download CV"

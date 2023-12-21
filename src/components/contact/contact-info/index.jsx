@@ -9,15 +9,15 @@ const ContactInfo = () => {
         <div className="contact-info-box">
             <h4>
                 I would be happy to answer any questions you may have about
-                freelance writing or content marketing!
+                Web Devleopment or Software Engineering !!
             </h4>
             <div className="contact-option">
                 <FaPhoneAlt />
-                <span className="text">+91 1234567890</span>
+                <span className="text">+917004632708</span>
             </div>
             <div className="contact-option">
                 <MdEmail />
-                <span className="text">example@gmail.com</span>
+                <span className="text">pratapvishwajeet22@gmail.com</span>
             </div>
         </div>
     );

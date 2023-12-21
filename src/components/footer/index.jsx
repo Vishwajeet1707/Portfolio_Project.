@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 
 import Section from "../shared/section";
-import Logo from "../../images/logo.png";
+import Logo from "../../images/7.png";
 import SocialIcon from "./social-icon";
 import { scrollToSection } from "../utils/helpers";
 
@@ -64,10 +64,12 @@ const Footer = () => {
                     <SocialIcon
                         color="#0D2636"
                         icon={<FaGithub />}
+                        link="https://github.com/Vishwajeet1707/Vishwajeet"
                     />
                     <SocialIcon
                         color="#0A66C2"
                         icon={<FaLinkedinIn />}
+                        link="https://www.linkedin.com/in/vishwajeet-pratap-singh-ba198117a"
                     />
                     <SocialIcon
                         color="#f2740d"
@@ -80,7 +82,7 @@ const Footer = () => {
                 </div>
                 <div className="bottom-bar">
                     <div className="copyright-text">
-                        Copyright 2022 JS Dev Hindi | All Rights Reserved
+                        Copyright 2024 Vishwajeet Pratap Singh | All Rights Reserved
                     </div>
                 </div>
             </div>
