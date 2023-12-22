@@ -5,6 +5,7 @@ import CallToAction from "../shared/CallToAction";
 import TechIcons from "../../images/tech-icons.png";
 import Section from "../shared/section";
 //import Resume from "../../download/Vishwajeet_SoftwareEngineer";
+//import Resume from "../../download/Vishwajeet_SoftwareEngineer.pdf";
 import Resume from "../../download/Vishwajeet_SoftwareEngineer.pdf";
 
 import "./style.scss";
